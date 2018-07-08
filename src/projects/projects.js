@@ -5,7 +5,7 @@ import EWLogo from './EWLogo.svg';
 import './projects.css';
 
 const dataset = [
-  {title: 'React Website', img: BackgroundImg, url:'#'},
+  {title: 'React Website', img: BackgroundImg, url:'https://github.com/Xiaoxuhmm/personalWebsite'},
   {title: 'Check List -- A Chrome Extension', img: AppStore, url:'https://github.com/Xiaoxuhmm/checkList'},
   {title: 'Interactive Website', img: EWLogo, url:'https://www.everlastingwardrobe.com/' }
 ]
