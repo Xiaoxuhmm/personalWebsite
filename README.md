@@ -1,5 +1,5 @@
 # Personal Website
-[Xiaoxu Li's Portfolio](www.xiaoxuli.com)
+[Xiaoxu Li's Portfolio](http://www.xiaoxuli.com)
 
 ## Process
 * Build website using React.js
